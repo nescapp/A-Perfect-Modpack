@@ -6,7 +6,7 @@
 
 ![Use the import button in the create profile screen](/import.png)
 
-Use the import button in the create profile screen.
+Use the import button in the *"create profile"* screen.
 
 ## Mods
 - Create
