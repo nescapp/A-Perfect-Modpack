@@ -1,5 +1,5 @@
 # A Perfect Modpack
- Best mods, all in one package, all while staying true to vanilla.
+ Vanilla + Create + Some other usefull mods. (1.19.2)
  
  ## Installation
  To install simply download the **zip file** and import it in **CurseForge**.
