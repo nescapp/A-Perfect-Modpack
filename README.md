@@ -1,5 +1,5 @@
-# A Perfect Modpack
- Vanilla + Create + Some other usefull mods. (1.19.2)
+# A Perfect Modpack (1.19.2)
+ Vanilla + Create + Some other usefull mods.
  
  ## Installation
  To install simply download the **zip file** and import it in **CurseForge**.
